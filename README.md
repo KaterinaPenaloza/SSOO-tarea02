@@ -1,5 +1,5 @@
 # SSOO-tarea02
-Author: Katerina Peñaloza Caballería
-correo: katerina.penaloza@alumnos.uv.cl
+Autor: Katerina Peñaloza Caballería
+Correo: katerina.penaloza@alumnos.uv.cl
 
 Trabajo realizado:
